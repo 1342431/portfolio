@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Welcome to my World
+      Your Life will be a Palindrome
     </h3>
   </div>
 </template>
@@ -25,6 +25,8 @@ h1 {
 
 h3 {
   font-size: 1.2rem;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .greetings h1,
