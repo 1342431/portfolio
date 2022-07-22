@@ -1,15 +1,12 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
   <header>
-
     <div class="wrapper">
-      <img src="/logo_big.png" width="600" height="180"/>
+      <img src="/blob-0001.png" width="600" height="600"/>
     </div>
   </header>
-
 </template>
 
 <style>
@@ -17,9 +14,8 @@ import HelloWorld from './components/HelloWorld.vue'
 
 #app {
   max-width: 1280px;
-  margin: 0 auto;
+  margin: auto 500px;
   padding: 2rem;
-
   font-weight: normal;
 }
 
